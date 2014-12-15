@@ -1,0 +1,9 @@
+{
+	"require": {
+		"slim/slim": "2.*",
+		"twig/twig": "dev-master",
+		"slim/views": "0.1.*",
+		"semantic/ui": "dev-master",
+		"dropbox/dropbox-sdk": "1.1.*"
+	}
+}
